@@ -3,7 +3,7 @@ Worked on a data science approach to derive business insights for better investm
 
 Developed an assessment index to identify optimum location for opening a new mexican restaurant. Recommended pricing of the menu items based on the selected location. 
 
-The Details of the project can be seen in the attached presentation.
+The details of the project can be seen in the attached presentation.
 
 **Repository include Data, Python, Tableau files.**
 
